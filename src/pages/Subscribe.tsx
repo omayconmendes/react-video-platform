@@ -72,7 +72,6 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-
     </div>
   );
 }
